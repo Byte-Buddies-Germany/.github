@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, wir sind AWS 23-10 Class</h1>
+<h1 align="center">Hi 👋, wir sind ByteBuddies</h1>
 <h3 align="center">Wir lernen Cloud Computing und diverse Programmier Sprachen</h3>
 
-- 🌱 Wir lernen zurzeit **AWS, Python, Linux**
+- 🌱 Wir lernen zurzeit **AWS, Python, Linux, Java Script, SQL, NoSQL**
 
 <p align="left">
 </p>
